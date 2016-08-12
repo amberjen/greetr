@@ -149,7 +149,6 @@
             return this;
         }
 
-
     };
 
     // The actual object is created here, allowing us to 'new' an object without
@@ -170,25 +169,5 @@
 
     // Attach Greetr to the global object, and provide a shorthand 'G$'
     global.Greetr = global.G$ = Greetr;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 }(window, jQuery));

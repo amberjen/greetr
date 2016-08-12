@@ -6,7 +6,7 @@ Learning project from Udemy course **[JavaScript: Understanding the Weird Parts]
 it generates formal and unformal greetings.
 
 ## Features
-1. Support English and Spanish languages
+1. Support English, Spanish and :alien: languages
 2. Reusable library
 3. Easy to type 'G$()' structure
 4. Support jQuery
